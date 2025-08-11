@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides a methodology for **Sentinel-2 acquisition and preprocessing**, a **Random Forest (RF) model** and a **Majority Filter (MF) procedure**
+This repository provides a methodology for **Sentinel-2 acquisition and preprocessing**, a **Random Forest (RF) model** and a **Majority Filter (MF) procedure**.
 Please note that the TanDEM-X Global Digital Elevation Model Change Maps (DCM) must be accessed separately from: **https://geoservice.dlr.de/web/datasets/tdm30_dcm**.
 The workflow involves three main scripts:
 
