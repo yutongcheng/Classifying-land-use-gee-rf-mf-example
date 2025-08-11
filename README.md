@@ -60,8 +60,8 @@ Due to the large volume of data (more than 80,000 mining sites), only example da
 
 ## Outputs
 - Sentinel-2 data for the region of interest (ROI) at 10 m resolution.
-- land-use and land-cover classification results.
-- smoothed land-use and land-cover classification results.
+- Land-use and land-cover classification results.
+- Smoothed land-use and land-cover classification results.
 
 ## Notes
   Ensure that Google Earth Engine (GEE) assets are correctly linked.
